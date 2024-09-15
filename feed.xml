@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>KD-Bespoke</title>
+    <link href="https://Jodyd78.github.io/feed.xml" rel="self" />
+    <link href="https://Jodyd78.github.io" />
+    <updated>2024-09-13T12:52:43+01:00</updated>
+    <author>
+        <name>Jody Dunstan</name>
+    </author>
+    <id>https://Jodyd78.github.io</id>
+
+    <entry>
+        <title>Design &amp; Make</title>
+        <author>
+            <name>Jody Dunstan</name>
+        </author>
+        <link href="https://Jodyd78.github.io/design-and-make.html"/>
+        <id>https://Jodyd78.github.io/design-and-make.html</id>
+
+        <updated>2024-09-12T16:18:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    At our workshop we have the abilkity to design and manufacture a wide range of items
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>At our workshop we have the abilkity to design and manufacture a wide range of items</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Carpentry &amp; Cabinetry</title>
+        <author>
+            <name>Jody Dunstan</name>
+        </author>
+        <link href="https://Jodyd78.github.io/cabinetry.html"/>
+        <id>https://Jodyd78.github.io/cabinetry.html</id>
+        <media:content url="https://Jodyd78.github.io/media/posts/3/Facebook-photo-1-2.jpg" medium="image" />
+
+        <updated>2024-09-12T15:59:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jodyd78.github.io/media/posts/3/Facebook-photo-1-2.jpg" alt="" />
+                    From creating some extra storage space, a full media centre to a fine centrepiece, in our Somerset workshop we can design, make and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Jodyd78.github.io/media/posts/3/Facebook-photo-1-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>From creating some extra storage space, a full media centre to a fine centrepiece, in our Somerset workshop we can design, make and install a huge range or furniture, made to your exact requirements</p>
+<figure class="post__image"><img loading="lazy"  src="https://Jodyd78.github.io/media/posts/3/Facebook-photo-1.jpg" alt="" width="1536" height="2048" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-xs.jpg 300w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-sm.jpg 480w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-md.jpg 768w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-lg.jpg 1024w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-xl.jpg 1360w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-2xl.jpg 1600w"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bespoke Kitchens </title>
+        <author>
+            <name>Jody Dunstan</name>
+        </author>
+        <link href="https://Jodyd78.github.io/test-post-1.html"/>
+        <id>https://Jodyd78.github.io/test-post-1.html</id>
+        <media:content url="https://Jodyd78.github.io/media/posts/2/Facebook-post-image-2.jpg" medium="image" />
+
+        <updated>2024-09-12T15:33:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jodyd78.github.io/media/posts/2/Facebook-post-image-2.jpg" alt="" />
+                    We handle your dream kitchen, from concept to the last touch
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Jodyd78.github.io/media/posts/2/Facebook-post-image-2.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <h2 id="we-handle-your-dream-kitchen-from-concept-to-the-last-touch">
+      We handle your dream kitchen, from concept to the last touch
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://Jodyd78.github.io/media/posts/2/Facebook-post-image.jpg" height="1440" width="1440" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-xs.jpg 300w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-sm.jpg 480w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-md.jpg 768w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-lg.jpg 1024w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-xl.jpg 1360w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-2xl.jpg 1600w">
+      
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

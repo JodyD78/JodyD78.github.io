@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KD-Bespoke",
+    "description": "",
+    "home_page_url": "https://Jodyd78.github.io",
+    "feed_url": "https://Jodyd78.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://Jodyd78.github.io/media/website/Facebook-photo.jpg",
+    "author": {
+        "name": "Jody Dunstan"
+    },
+    "items": [
+        {
+            "id": "https://Jodyd78.github.io/design-and-make.html",
+            "url": "https://Jodyd78.github.io/design-and-make.html",
+            "title": "Design &amp; Make",
+            "summary": "At our workshop we have the abilkity to design and manufacture a wide range of items",
+            "content_html": "<p>At our workshop we have the abilkity to design and manufacture a wide range of items</p>",
+            "author": {
+                "name": "Jody Dunstan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-12T16:18:32+01:00",
+            "date_modified": "2024-09-13T12:52:43+01:00"
+        },
+        {
+            "id": "https://Jodyd78.github.io/cabinetry.html",
+            "url": "https://Jodyd78.github.io/cabinetry.html",
+            "title": "Carpentry &amp; Cabinetry",
+            "summary": "From creating some extra storage space, a full media centre to a fine centrepiece, in our Somerset workshop we can design, make and&hellip;",
+            "content_html": "<p>From creating some extra storage space, a full media centre to a fine centrepiece, in our Somerset workshop we can design, make and install a huge range or furniture, made to your exact requirements</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://Jodyd78.github.io/media/posts/3/Facebook-photo-1.jpg\" alt=\"\" width=\"1536\" height=\"2048\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-xs.jpg 300w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-sm.jpg 480w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-md.jpg 768w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-lg.jpg 1024w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-xl.jpg 1360w ,https://Jodyd78.github.io/media/posts/3/responsive/Facebook-photo-1-2xl.jpg 1600w\"></figure>\n<p> </p>",
+            "image": "https://Jodyd78.github.io/media/posts/3/Facebook-photo-1-2.jpg",
+            "author": {
+                "name": "Jody Dunstan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-12T15:59:04+01:00",
+            "date_modified": "2024-09-13T11:01:31+01:00"
+        },
+        {
+            "id": "https://Jodyd78.github.io/test-post-1.html",
+            "url": "https://Jodyd78.github.io/test-post-1.html",
+            "title": "Bespoke Kitchens ",
+            "summary": "We handle your dream kitchen, from concept to the last touch",
+            "content_html": "\n    <h2 id=\"we-handle-your-dream-kitchen-from-concept-to-the-last-touch\">\n      We handle your dream kitchen, from concept to the last touch\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Jodyd78.github.io/media/posts/2/Facebook-post-image.jpg\" height=\"1440\" width=\"1440\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-xs.jpg 300w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-sm.jpg 480w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-md.jpg 768w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-lg.jpg 1024w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-xl.jpg 1360w ,https://Jodyd78.github.io/media/posts/2/responsive/Facebook-post-image-2xl.jpg 1600w\">\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "image": "https://Jodyd78.github.io/media/posts/2/Facebook-post-image-2.jpg",
+            "author": {
+                "name": "Jody Dunstan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-12T15:33:25+01:00",
+            "date_modified": "2024-09-12T15:54:59+01:00"
+        }
+    ]
+}
