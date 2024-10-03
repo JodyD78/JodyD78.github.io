@@ -1,0 +1,21 @@
+name: Check Website Availability
+
+on:
+  workflow_dispatch:  # This enables manual runs
+  schedule:
+    - cron: '0 0 * * *'  # (Optional) This will also schedule it to run daily at midnight UTC
+
+jobs:
+  check-website:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check if site is online
+      run: |
+        URL="https://www.kdbespoke.co.uk"
+        STATUS_CODE=$(curl -o /dev/null -s -w "%{http_code}\n" "$URL")
+        if [ "$STATUS_CODE" -ne 200 ]; then
+          echo "Website is down (Status code: $STATUS_CODE)"
+          exit 1
+        else:
+          echo "Website is up (Status code: $STATUS_CODE)"
