@@ -3,12 +3,35 @@
     <title>KD-Bespoke</title>
     <link href="https://Jodyd78.github.io/feed.xml" rel="self" />
     <link href="https://Jodyd78.github.io" />
-    <updated>2024-09-17T17:51:20+01:00</updated>
+    <updated>2024-10-06T12:26:50+01:00</updated>
     <author>
         <name>Jody Dunstan</name>
     </author>
     <id>https://Jodyd78.github.io</id>
 
+    <entry>
+        <title>Online Store</title>
+        <author>
+            <name>Jody Dunstan</name>
+        </author>
+        <link href="https://Jodyd78.github.io/online-store.html"/>
+        <id>https://Jodyd78.github.io/online-store.html</id>
+        <media:content url="https://Jodyd78.github.io/media/posts/9/Online-Shop-Rupixen.jpg" medium="image" />
+
+        <updated>2024-10-06T12:15:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Jodyd78.github.io/media/posts/9/Online-Shop-Rupixen.jpg" alt="" />
+                    Visit our online store
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Jodyd78.github.io/media/posts/9/Online-Shop-Rupixen.jpg" class="type:primaryImage" alt="" /></p>
+                <h2 class="align-center msg--highlight"><a href="https://store108975242.company.site/?lang=en&amp;from_admin&amp;vertical=other" target="_blank" class="primary fit extlink extlink-icon-1 "  rel="noopener noreferrer">Visit our online store</a></h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Design &amp; Make</title>
         <author>

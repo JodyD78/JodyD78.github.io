@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://Jodyd78.github.io/online-store.html",
+            "url": "https://Jodyd78.github.io/online-store.html",
+            "title": "Online Store",
+            "summary": "Visit our online store",
+            "content_html": "<h2 class=\"align-center msg--highlight\"><a href=\"https://store108975242.company.site/?lang=en&amp;from_admin&amp;vertical=other\" target=\"_blank\" class=\"primary fit extlink extlink-icon-1 \"  rel=\"noopener noreferrer\">Visit our online store</a></h2>",
+            "image": "https://Jodyd78.github.io/media/posts/9/Online-Shop-Rupixen.jpg",
+            "author": {
+                "name": "Jody Dunstan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-06T12:15:46+01:00",
+            "date_modified": "2024-10-06T12:26:50+01:00"
+        },
+        {
             "id": "https://Jodyd78.github.io/design-and-make.html",
             "url": "https://Jodyd78.github.io/design-and-make.html",
             "title": "Design &amp; Make",
