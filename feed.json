@@ -2,71 +2,53 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "KD-Bespoke",
     "description": "",
-    "home_page_url": "https://Jodyd78.github.io",
-    "feed_url": "https://Jodyd78.github.io/feed.json",
+    "home_page_url": "https://kdbespoke.co.uk",
+    "feed_url": "https://kdbespoke.co.uk/feed.json",
     "user_comment": "",
-    "icon": "https://Jodyd78.github.io/media/website/Facebook-photo.jpg",
+    "icon": "https://kdbespoke.co.uk/media/website/Facebook-photo.jpg",
     "author": {
         "name": "Jody Dunstan"
     },
     "items": [
         {
-            "id": "https://Jodyd78.github.io/online-store.html",
-            "url": "https://Jodyd78.github.io/online-store.html",
-            "title": "Online Store",
-            "summary": "Visit our online store",
-            "content_html": "<h2 class=\"align-center msg--highlight\"><a href=\"https://store108975242.company.site/?lang=en&amp;from_admin&amp;vertical=other\" target=\"_blank\" class=\"primary fit extlink extlink-icon-1 \"  rel=\"noopener noreferrer\">Visit our online store</a></h2>",
-            "image": "https://Jodyd78.github.io/media/posts/9/Online-Shop-Rupixen.jpg",
-            "author": {
-                "name": "Jody Dunstan"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-10-06T12:15:46+01:00",
-            "date_modified": "2024-10-06T12:26:50+01:00"
-        },
-        {
-            "id": "https://Jodyd78.github.io/design-and-make.html",
-            "url": "https://Jodyd78.github.io/design-and-make.html",
+            "id": "https://kdbespoke.co.uk/design-and-make.html",
+            "url": "https://kdbespoke.co.uk/design-and-make.html",
             "title": "Design &amp; Make",
             "summary": "Combining old-fashioned craftsmanship with the latest technology, we create everything from one-off replacement parts to complete furniture pieces. With access to the latest&hellip;",
-            "content_html": "<p class=\"p1\">Combining old-fashioned craftsmanship with the latest technology, we create everything from one-off replacement parts to complete furniture pieces.</p>\n<p class=\"p3\">With access to the latest technologies — including CAD, CNC, and 3D scanning and printing — the only limitation is your imagination.</p>\n<p class=\"p1\"> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://Jodyd78.github.io/media/posts/4/d9c98c40-c384-4814-b72a-840bc5045578.JPG\" alt=\"One off bespoke 3D print \" width=\"1200\" height=\"1600\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-xs.JPG 300w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-sm.JPG 480w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-md.JPG 768w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-lg.JPG 1024w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-xl.JPG 1360w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-2xl.JPG 1600w\"></figure>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://Jodyd78.github.io/media/posts/4/IMG_5057.JPG\" alt=\"\" width=\"3024\" height=\"4032\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-xs.JPG 300w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-sm.JPG 480w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-md.JPG 768w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-lg.JPG 1024w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-xl.JPG 1360w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-2xl.JPG 1600w\"></figure>",
-            "image": "https://Jodyd78.github.io/media/posts/4/IMG_5566.JPG",
+            "content_html": "<p class=\"p1\">Combining old-fashioned craftsmanship with the latest technology, we create everything from one-off replacement parts to complete furniture pieces.</p>\n<p class=\"p3\">With access to the latest technologies — including CAD, CNC, and 3D scanning and printing — the only limitation is your imagination.</p>\n<p class=\"p1\"> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://kdbespoke.co.uk/media/posts/4/d9c98c40-c384-4814-b72a-840bc5045578.JPG\" alt=\"One off bespoke 3D print \" width=\"1200\" height=\"1600\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-xs.JPG 300w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-sm.JPG 480w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-md.JPG 768w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-lg.JPG 1024w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-xl.JPG 1360w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-2xl.JPG 1600w\"></figure>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://kdbespoke.co.uk/media/posts/4/IMG_5057.JPG\" alt=\"\" width=\"3024\" height=\"4032\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-xs.JPG 300w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-sm.JPG 480w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-md.JPG 768w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-lg.JPG 1024w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-xl.JPG 1360w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-2xl.JPG 1600w\"></figure>",
+            "image": "https://kdbespoke.co.uk/media/posts/4/IMG_5566.JPG",
             "author": {
                 "name": "Jody Dunstan"
             },
-            "tags": [
-            ],
+            "tags": [],
             "date_published": "2024-09-12T16:18:32+01:00",
             "date_modified": "2025-03-12T10:37:46+00:00"
         },
         {
-            "id": "https://Jodyd78.github.io/cabinetry.html",
-            "url": "https://Jodyd78.github.io/cabinetry.html",
+            "id": "https://kdbespoke.co.uk/cabinetry.html",
+            "url": "https://kdbespoke.co.uk/cabinetry.html",
             "title": "Cabinetmaking",
             "summary": "Whether you're looking to create additional storage space, a complete media centre, or a stunning centrepiece, our Somerset workshop can design, craft, and&hellip;",
-            "content_html": "<p>Whether you're looking to create additional storage space, a complete media centre, or a stunning centrepiece, our Somerset workshop can design, craft, and install a wide range of furniture, tailored to your exact requirements.</p>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://Jodyd78.github.io/media/posts/3/gallery/IMG_4839.JPG\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://Jodyd78.github.io/media/posts/3/gallery/IMG_4839-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jodyd78.github.io/media/posts/3/gallery/IMG_5012.JPG\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://Jodyd78.github.io/media/posts/3/gallery/IMG_5012-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://Jodyd78.github.io/media/posts/3/gallery/IMG_5904.JPG\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://Jodyd78.github.io/media/posts/3/gallery/IMG_5904-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a>\n<figcaption>*made for Linnel Furniture</figcaption>\n</figure>\n</div></div>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://Jodyd78.github.io/media/posts/3/DJI_20240503_161435_313_video-2.MP4\" alt=\"\"></figure>\n<p> </p>\n<p> </p>",
-            "image": "https://Jodyd78.github.io/media/posts/3/Facebook-photo-1-2.jpg",
+            "content_html": "<p>Whether you're looking to create additional storage space, a complete media centre, or a stunning centrepiece, our Somerset workshop can design, craft, and install a wide range of furniture, tailored to your exact requirements.</p>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://kdbespoke.co.uk/media/posts/3/gallery/IMG_4839.JPG\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kdbespoke.co.uk/media/posts/3/gallery/IMG_4839-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kdbespoke.co.uk/media/posts/3/gallery/IMG_5012.JPG\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kdbespoke.co.uk/media/posts/3/gallery/IMG_5012-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://kdbespoke.co.uk/media/posts/3/gallery/IMG_5904.JPG\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://kdbespoke.co.uk/media/posts/3/gallery/IMG_5904-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"540\"></a>\n<figcaption>*made for Linnel Furniture</figcaption>\n</figure>\n</div></div>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kdbespoke.co.uk/media/posts/3/DJI_20240503_161435_313_video-2.MP4\" alt=\"\"></figure>\n<p> </p>\n<p> </p>",
+            "image": "https://kdbespoke.co.uk/media/posts/3/Facebook-photo-1-2.jpg",
             "author": {
                 "name": "Jody Dunstan"
             },
-            "tags": [
-            ],
+            "tags": [],
             "date_published": "2024-09-12T15:59:04+01:00",
             "date_modified": "2024-09-17T17:49:56+01:00"
         },
         {
-            "id": "https://Jodyd78.github.io/test-post-1.html",
-            "url": "https://Jodyd78.github.io/test-post-1.html",
+            "id": "https://kdbespoke.co.uk/bespoke-kitchens.html",
+            "url": "https://kdbespoke.co.uk/bespoke-kitchens.html",
             "title": "Bespoke Kitchens ",
             "summary": "We handle your dream kitchen, from concept to the last touch We can design, manufacture, and install everything from compact kitchens in small&hellip;",
-            "content_html": "\n    <h2 id=\"we-handle-your-dream-kitchen-from-concept-to-the-last-touchlessbrgreaterlessbrgreater\">\n      We handle your dream kitchen, from concept to the last touch<br><br>\n    </h2>\n\n  <p>\n    We can design, manufacture, and install everything from compact kitchens in small apartments, where space is at a premium, to showpiece kitchens in large family homes. While large projects like kitchens can feel daunting, we will support you throughout the entire process, offering highly competitive prices\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://Jodyd78.github.io/media/posts/2/gallery/0e876586-2966-47ab-b62f-7490c5d9aeec.JPG\" data-size=\"1600x1200\">\n        <img loading=\"lazy\" src=\"https://Jodyd78.github.io/media/posts/2/gallery/0e876586-2966-47ab-b62f-7490c5d9aeec-thumbnail.JPG\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://Jodyd78.github.io/media/posts/2/gallery/AA3A7A1F-306E-4848-9672-282ECC476E54.JPG\" data-size=\"1440x1800\">\n        <img loading=\"lazy\" src=\"https://Jodyd78.github.io/media/posts/2/gallery/AA3A7A1F-306E-4848-9672-282ECC476E54-thumbnail.JPG\" height=\"900\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://Jodyd78.github.io/media/posts/2/gallery/Untitled.png\" data-size=\"1440x1800\">\n        <img loading=\"lazy\" src=\"https://Jodyd78.github.io/media/posts/2/gallery/Untitled-thumbnail.png\" height=\"900\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://Jodyd78.github.io/media/posts/2/gallery/IMG_6932.png\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://Jodyd78.github.io/media/posts/2/gallery/IMG_6932-thumbnail.png\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
-            "image": "https://Jodyd78.github.io/media/posts/2/Untitled.png",
+            "content_html": "\n    <h2 id=\"we-handle-your-dream-kitchen-from-concept-to-the-last-touchlessbrgreaterlessbrgreater\">\n      We handle your dream kitchen, from concept to the last touch<br><br>\n    </h2>\n\n  <p>\n    We can design, manufacture, and install everything from compact kitchens in small apartments, where space is at a premium, to showpiece kitchens in large family homes. While large projects like kitchens can feel daunting, we will support you throughout the entire process. Every kitchen is designed, built and fitted by Kerry from our Weston-super-Mare workshop, so you deal with the maker directly from first sketch to final fitting.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://kdbespoke.co.uk/media/posts/2/gallery/0e876586-2966-47ab-b62f-7490c5d9aeec.JPG\" data-size=\"1600x1200\">\n        <img loading=\"lazy\" src=\"https://kdbespoke.co.uk/media/posts/2/gallery/0e876586-2966-47ab-b62f-7490c5d9aeec-thumbnail.JPG\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://kdbespoke.co.uk/media/posts/2/gallery/AA3A7A1F-306E-4848-9672-282ECC476E54.JPG\" data-size=\"1440x1800\">\n        <img loading=\"lazy\" src=\"https://kdbespoke.co.uk/media/posts/2/gallery/AA3A7A1F-306E-4848-9672-282ECC476E54-thumbnail.JPG\" height=\"900\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://kdbespoke.co.uk/media/posts/2/gallery/Untitled.png\" data-size=\"1440x1800\">\n        <img loading=\"lazy\" src=\"https://kdbespoke.co.uk/media/posts/2/gallery/Untitled-thumbnail.png\" height=\"900\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://kdbespoke.co.uk/media/posts/2/gallery/IMG_6932.png\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://kdbespoke.co.uk/media/posts/2/gallery/IMG_6932-thumbnail.png\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://kdbespoke.co.uk/media/posts/2/Untitled.png",
             "author": {
                 "name": "Jody Dunstan"
             },
-            "tags": [
-            ],
+            "tags": [],
             "date_published": "2024-09-12T15:33:25+01:00",
             "date_modified": "2024-09-17T17:51:20+01:00"
         }

@@ -1,61 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>KD-Bespoke</title>
-    <link href="https://Jodyd78.github.io/feed.xml" rel="self" />
-    <link href="https://Jodyd78.github.io" />
+    <link href="https://kdbespoke.co.uk/feed.xml" rel="self" />
+    <link href="https://kdbespoke.co.uk" />
     <updated>2025-03-12T10:37:46+00:00</updated>
     <author>
         <name>Jody Dunstan</name>
     </author>
-    <id>https://Jodyd78.github.io</id>
+    <id>https://kdbespoke.co.uk</id>
 
-    <entry>
-        <title>Online Store</title>
-        <author>
-            <name>Jody Dunstan</name>
-        </author>
-        <link href="https://Jodyd78.github.io/online-store.html"/>
-        <id>https://Jodyd78.github.io/online-store.html</id>
-        <media:content url="https://Jodyd78.github.io/media/posts/9/Online-Shop-Rupixen.jpg" medium="image" />
-
-        <updated>2024-10-06T12:15:46+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://Jodyd78.github.io/media/posts/9/Online-Shop-Rupixen.jpg" alt="" />
-                    Visit our online store
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://Jodyd78.github.io/media/posts/9/Online-Shop-Rupixen.jpg" class="type:primaryImage" alt="" /></p>
-                <h2 class="align-center msg--highlight"><a href="https://store108975242.company.site/?lang=en&amp;from_admin&amp;vertical=other" target="_blank" class="primary fit extlink extlink-icon-1 "  rel="noopener noreferrer">Visit our online store</a></h2>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Design &amp; Make</title>
         <author>
             <name>Jody Dunstan</name>
         </author>
-        <link href="https://Jodyd78.github.io/design-and-make.html"/>
-        <id>https://Jodyd78.github.io/design-and-make.html</id>
-        <media:content url="https://Jodyd78.github.io/media/posts/4/IMG_5566.JPG" medium="image" />
+        <link href="https://kdbespoke.co.uk/design-and-make.html"/>
+        <id>https://kdbespoke.co.uk/design-and-make.html</id>
+        <media:content url="https://kdbespoke.co.uk/media/posts/4/IMG_5566.JPG" medium="image" />
 
         <updated>2024-09-12T16:18:32+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://Jodyd78.github.io/media/posts/4/IMG_5566.JPG" alt="" />
+                        <img src="https://kdbespoke.co.uk/media/posts/4/IMG_5566.JPG" alt="" />
                     Combining old-fashioned craftsmanship with the latest technology, we create everything from one-off replacement parts to complete furniture pieces. With access to the latest&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Jodyd78.github.io/media/posts/4/IMG_5566.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kdbespoke.co.uk/media/posts/4/IMG_5566.JPG" class="type:primaryImage" alt="" /></p>
                 <p class="p1">Combining old-fashioned craftsmanship with the latest technology, we create everything from one-off replacement parts to complete furniture pieces.</p>
 <p class="p3">With access to the latest technologies — including CAD, CNC, and 3D scanning and printing — the only limitation is your imagination.</p>
 <p class="p1"> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://Jodyd78.github.io/media/posts/4/d9c98c40-c384-4814-b72a-840bc5045578.JPG" alt="One off bespoke 3D print " width="1200" height="1600" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-xs.JPG 300w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-sm.JPG 480w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-md.JPG 768w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-lg.JPG 1024w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-xl.JPG 1360w ,https://Jodyd78.github.io/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-2xl.JPG 1600w"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://Jodyd78.github.io/media/posts/4/IMG_5057.JPG" alt="" width="3024" height="4032" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-xs.JPG 300w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-sm.JPG 480w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-md.JPG 768w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-lg.JPG 1024w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-xl.JPG 1360w ,https://Jodyd78.github.io/media/posts/4/responsive/IMG_5057-2xl.JPG 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kdbespoke.co.uk/media/posts/4/d9c98c40-c384-4814-b72a-840bc5045578.JPG" alt="One off bespoke 3D print " width="1200" height="1600" sizes="(max-width: 48em) 100vw, 768px" srcset="https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-xs.JPG 300w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-sm.JPG 480w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-md.JPG 768w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-lg.JPG 1024w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-xl.JPG 1360w ,https://kdbespoke.co.uk/media/posts/4/responsive/d9c98c40-c384-4814-b72a-840bc5045578-2xl.JPG 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kdbespoke.co.uk/media/posts/4/IMG_5057.JPG" alt="" width="3024" height="4032" sizes="(max-width: 48em) 100vw, 768px" srcset="https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-xs.JPG 300w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-sm.JPG 480w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-md.JPG 768w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-lg.JPG 1024w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-xl.JPG 1360w ,https://kdbespoke.co.uk/media/posts/4/responsive/IMG_5057-2xl.JPG 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -64,29 +41,29 @@
         <author>
             <name>Jody Dunstan</name>
         </author>
-        <link href="https://Jodyd78.github.io/cabinetry.html"/>
-        <id>https://Jodyd78.github.io/cabinetry.html</id>
-        <media:content url="https://Jodyd78.github.io/media/posts/3/Facebook-photo-1-2.jpg" medium="image" />
+        <link href="https://kdbespoke.co.uk/cabinetry.html"/>
+        <id>https://kdbespoke.co.uk/cabinetry.html</id>
+        <media:content url="https://kdbespoke.co.uk/media/posts/3/Facebook-photo-1-2.jpg" medium="image" />
 
         <updated>2024-09-12T15:59:04+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://Jodyd78.github.io/media/posts/3/Facebook-photo-1-2.jpg" alt="" />
+                        <img src="https://kdbespoke.co.uk/media/posts/3/Facebook-photo-1-2.jpg" alt="" />
                     Whether you're looking to create additional storage space, a complete media centre, or a stunning centrepiece, our Somerset workshop can design, craft, and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Jodyd78.github.io/media/posts/3/Facebook-photo-1-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kdbespoke.co.uk/media/posts/3/Facebook-photo-1-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Whether you're looking to create additional storage space, a complete media centre, or a stunning centrepiece, our Somerset workshop can design, craft, and install a wide range of furniture, tailored to your exact requirements.</p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://Jodyd78.github.io/media/posts/3/gallery/IMG_4839.JPG" data-size="4032x3024"><img loading="lazy" src="https://Jodyd78.github.io/media/posts/3/gallery/IMG_4839-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://Jodyd78.github.io/media/posts/3/gallery/IMG_5012.JPG" data-size="4032x3024"><img loading="lazy" src="https://Jodyd78.github.io/media/posts/3/gallery/IMG_5012-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://Jodyd78.github.io/media/posts/3/gallery/IMG_5904.JPG" data-size="4032x3024"><img loading="lazy" src="https://Jodyd78.github.io/media/posts/3/gallery/IMG_5904-thumbnail.JPG" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://kdbespoke.co.uk/media/posts/3/gallery/IMG_4839.JPG" data-size="4032x3024"><img loading="lazy" src="https://kdbespoke.co.uk/media/posts/3/gallery/IMG_4839-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://kdbespoke.co.uk/media/posts/3/gallery/IMG_5012.JPG" data-size="4032x3024"><img loading="lazy" src="https://kdbespoke.co.uk/media/posts/3/gallery/IMG_5012-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://kdbespoke.co.uk/media/posts/3/gallery/IMG_5904.JPG" data-size="4032x3024"><img loading="lazy" src="https://kdbespoke.co.uk/media/posts/3/gallery/IMG_5904-thumbnail.JPG" alt="" width="720" height="540"></a>
 <figcaption>*made for Linnel Furniture</figcaption>
 </figure>
 </div></div>
-<figure class="post__image"><img loading="lazy"  src="https://Jodyd78.github.io/media/posts/3/DJI_20240503_161435_313_video-2.MP4" alt=""></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kdbespoke.co.uk/media/posts/3/DJI_20240503_161435_313_video-2.MP4" alt=""></figure>
 <p> </p>
 <p> </p>
             ]]>
@@ -97,49 +74,49 @@
         <author>
             <name>Jody Dunstan</name>
         </author>
-        <link href="https://Jodyd78.github.io/test-post-1.html"/>
-        <id>https://Jodyd78.github.io/test-post-1.html</id>
-        <media:content url="https://Jodyd78.github.io/media/posts/2/Untitled.png" medium="image" />
+        <link href="https://kdbespoke.co.uk/bespoke-kitchens.html"/>
+        <id>https://kdbespoke.co.uk/bespoke-kitchens.html</id>
+        <media:content url="https://kdbespoke.co.uk/media/posts/2/Untitled.png" medium="image" />
 
         <updated>2024-09-12T15:33:25+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://Jodyd78.github.io/media/posts/2/Untitled.png" alt="" />
+                        <img src="https://kdbespoke.co.uk/media/posts/2/Untitled.png" alt="" />
                     We handle your dream kitchen, from concept to the last touch We can design, manufacture, and install everything from compact kitchens in small&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://Jodyd78.github.io/media/posts/2/Untitled.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://kdbespoke.co.uk/media/posts/2/Untitled.png" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="we-handle-your-dream-kitchen-from-concept-to-the-last-touchlessbrgreaterlessbrgreater">
       We handle your dream kitchen, from concept to the last touch<br><br>
     </h2>
 
   <p>
-    We can design, manufacture, and install everything from compact kitchens in small apartments, where space is at a premium, to showpiece kitchens in large family homes. While large projects like kitchens can feel daunting, we will support you throughout the entire process, offering highly competitive prices
+    We can design, manufacture, and install everything from compact kitchens in small apartments, where space is at a premium, to showpiece kitchens in large family homes. While large projects like kitchens can feel daunting, we will support you throughout the entire process. Every kitchen is designed, built and fitted by Kerry from our Weston-super-Mare workshop, so you deal with the maker directly from first sketch to final fitting.
   </p>
 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://Jodyd78.github.io/media/posts/2/gallery/0e876586-2966-47ab-b62f-7490c5d9aeec.JPG" data-size="1600x1200">
-        <img loading="lazy" src="https://Jodyd78.github.io/media/posts/2/gallery/0e876586-2966-47ab-b62f-7490c5d9aeec-thumbnail.JPG" height="540" width="720" alt="" >
+      <a href="https://kdbespoke.co.uk/media/posts/2/gallery/0e876586-2966-47ab-b62f-7490c5d9aeec.JPG" data-size="1600x1200">
+        <img loading="lazy" src="https://kdbespoke.co.uk/media/posts/2/gallery/0e876586-2966-47ab-b62f-7490c5d9aeec-thumbnail.JPG" height="540" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://Jodyd78.github.io/media/posts/2/gallery/AA3A7A1F-306E-4848-9672-282ECC476E54.JPG" data-size="1440x1800">
-        <img loading="lazy" src="https://Jodyd78.github.io/media/posts/2/gallery/AA3A7A1F-306E-4848-9672-282ECC476E54-thumbnail.JPG" height="900" width="720" alt="" >
+      <a href="https://kdbespoke.co.uk/media/posts/2/gallery/AA3A7A1F-306E-4848-9672-282ECC476E54.JPG" data-size="1440x1800">
+        <img loading="lazy" src="https://kdbespoke.co.uk/media/posts/2/gallery/AA3A7A1F-306E-4848-9672-282ECC476E54-thumbnail.JPG" height="900" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://Jodyd78.github.io/media/posts/2/gallery/Untitled.png" data-size="1440x1800">
-        <img loading="lazy" src="https://Jodyd78.github.io/media/posts/2/gallery/Untitled-thumbnail.png" height="900" width="720" alt="" >
+      <a href="https://kdbespoke.co.uk/media/posts/2/gallery/Untitled.png" data-size="1440x1800">
+        <img loading="lazy" src="https://kdbespoke.co.uk/media/posts/2/gallery/Untitled-thumbnail.png" height="900" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://Jodyd78.github.io/media/posts/2/gallery/IMG_6932.png" data-size="4032x3024">
-        <img loading="lazy" src="https://Jodyd78.github.io/media/posts/2/gallery/IMG_6932-thumbnail.png" height="540" width="720" alt="" >
+      <a href="https://kdbespoke.co.uk/media/posts/2/gallery/IMG_6932.png" data-size="4032x3024">
+        <img loading="lazy" src="https://kdbespoke.co.uk/media/posts/2/gallery/IMG_6932-thumbnail.png" height="540" width="720" alt="" >
       </a>
       
     </figure>
